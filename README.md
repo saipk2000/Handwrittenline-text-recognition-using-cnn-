@@ -8,12 +8,7 @@ Robust Dataset: Trained on a comprehensive dataset of handwritten text samples t
 End-to-End Pipeline: From image preprocessing to character prediction and text reconstruction.
 Flexible and Scalable: Can be adapted for various languages and text styles.
 Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/handwritten-text-recognition.git
-Navigate to the project directory:
-bash
+
 Copy code
 cd handwritten-text-recognition
 Install dependencies:
